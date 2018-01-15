@@ -1,0 +1,22 @@
+{
+  "name": "@thangngoc89/bs-apollo-server-express",
+  "version": "1.0.0",
+  "description": "Bucklescript binding for apollo-server-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangngoc89/bs-bindings.git"
+  },
+  "author": "thangngoc89 <hi@khoanguyen.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thangngoc89/bs-bindings/issues"
+  },
+  "homepage": "https://github.com/thangngoc89/bs-bindings#readme",
+  "dependencies": {
+    "bs-express": "0.0.6"
+  }
+}
