@@ -10,6 +10,6 @@
   ],
   "suffix": ".js",
   "namespace": false,
-  "bs-dependencies": ["reason-react", "re-classnames"],
+  "bs-dependencies": ["bs-express", "bs-graphql"],
   "refmt": 3
 }
